@@ -1,0 +1,177 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "cookingTime": 20,
+      "method": "1. Cook spaghetti according to package instructions. 2. Meanwhile, in a skillet, cook bacon over medium heat until crisp. Remove bacon from pan and drain on paper towels, reserving 2 tablespoons of the drippings. 3. In a small bowl, whisk eggs and Parmesan cheese. 4. When spaghetti is cooked, reserve 1/2 cup of the pasta water, then drain the spaghetti. 5. Add the reserved pasta water and spaghetti to the skillet with the bacon drippings. 6. Remove the skillet from heat, then stir in the egg mixture until the spaghetti is coated. 7. Add the bacon and season with salt and pepper to taste. Serve immediately.",
+      "ingredients": [
+        "8 oz spaghetti",
+        "4 slices bacon, chopped",
+        "2 eggs",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and pepper, to taste"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Chicken Alfredo",
+      "cookingTime": 30,
+      "method": "1. Cook fettuccine according to package instructions. 2. Meanwhile, in a large skillet, cook chicken over medium-high heat until browned and cooked through. Remove chicken from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add garlic and cook for 1 minute. 5. Add cream, stirring constantly, until sauce thickens. 6. Add Parmesan cheese and stir until melted. 7. Add cooked fettuccine to the skillet with the sauce and toss to coat. 8. Serve the fettuccine topped with the chicken and garnished with parsley, if desired.",
+      "ingredients": [
+        "8 oz fettuccine",
+        "1 lb boneless, skinless chicken breasts, cut into bite-sized pieces",
+        "2 tbsp butter",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and pepper, to taste",
+        "Chopped parsley, for garnish (optional)"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 5
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 6
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 7
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 8
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 9
+    },
+    {
+      "title": "Beef Stroganoff",
+      "cookingTime": 45,
+      "method": "1. Cook egg noodles according to package instructions. 2. Meanwhile, in a large skillet, cook beef over medium-high heat until browned and cooked through. Remove beef from skillet and keep warm. 3. Add butter to the same skillet and melt over medium heat. 4. Add onions and mushrooms and cook until onions are tender and mushrooms are browned. 5. Add flour and stir until well combined. 6. Add beef broth and Worcestershire sauce and stir until sauce thickens. 7. Add sour cream and stir until heated through. 8. Serve the beef stroganoff over the cooked egg noodles.",
+      "ingredients": [
+        "8 oz egg noodles",
+        "1 lb beef sirloin, cut into thin strips",
+        "2 tbsp butter",
+        "1 onion, chopped",
+        "8 oz mushrooms, sliced",
+        "2 tbsp all-purpose flour",
+        "1 cup beef broth",
+        "2 tsp Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and pepper, to taste"
+      ],
+      "id": 10
+    }
+  ]
+}
